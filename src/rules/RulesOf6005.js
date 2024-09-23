@@ -55,3 +55,4 @@ class RulesOf6005 {
   console.log("You may certainly use code you wrote yourself: " +
     RulesOf6005.mayUseCodeInAssignment(false, false, true, true, true));
   
+    module.exports = RulesOf6005; 
